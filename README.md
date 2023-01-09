@@ -1,11 +1,6 @@
 <h1 align="center">Hi ther 👋, I'm Elber </h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<div align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nunesbzn&show_icons=true&theme=tokyonight"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesbzn&layout=compact&theme=tokyonight"/>
-</div>
-
 <h3 align="center">🛠️ Technologies and Tools I use:</h3>
 
 <h5 align="center">Programming Languages:</h5>
